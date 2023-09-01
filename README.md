@@ -18,3 +18,6 @@ Then similarity score of each movie with every other movie is calculated using `
 
 # Cosine Similarity
 Basic Cosine similarity is distance between the two vectors in the multi-dimensional space on the basis of the angle between vectors. Smaller is the angle between vectors higher is the similarity between them.
+
+![image](https://github.com/vaibhavgup3003/movie_recommender_system/assets/103132948/8dfddcf2-7d7f-4c8a-b07e-bb161b5c92da)
+
