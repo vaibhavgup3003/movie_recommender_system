@@ -1,4 +1,3 @@
-# movie_recommender_system
 This model of Movie Recommender System recommends movies similar to the movie user likes on the basis of the similarity of the movies with all the other movies in the database.
 # API key
 TMDB API is used to fetch the poster of the recommended movie.
