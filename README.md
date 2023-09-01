@@ -1,5 +1,7 @@
 # Movie_recommendation_model
 
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![API](https://img.shields.io/badge/API-TMDB-fcba03)
 This model of Movie Recommender System recommends movies similar to the movie user likes on the basis of the similarity of the movies with all the other movies in the database.
 # API key
 TMDB API is used to fetch the poster of the recommended movie.
