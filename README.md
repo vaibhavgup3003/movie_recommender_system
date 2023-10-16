@@ -1,4 +1,4 @@
-![# Movie_recommendation_model] (https://surfithere.streamlit.app)
+# ![Movie_recommendation_model](https://surfithere.streamlit.app)
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
