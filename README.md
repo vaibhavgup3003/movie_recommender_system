@@ -1,9 +1,9 @@
-# [Movie_recommendation_model](https://surfithere.streamlit.app/)
+# [Movie_recommendation_model 🔗](https://surfithere.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-[Link to the APP](https://surfithere.streamlit.app)
+
 
 This model of Movie Recommender System recommends movies similar to the movie user likes on the basis of the similarity of the movies with all the other movies in the database.
 # Video Demonstration
